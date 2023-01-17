@@ -1,3 +1,13 @@
+/*
+* File: app.js
+* Author: Gyüre Árpád
+* Copyright: 2023, Gyüre Árpád
+* Group: Szoft I-1-E
+* Date: 2023-01-17
+* Github: https://github.com/rp2022k/haromszog
+* Licenc: GNU GPL
+*/
+
 const baseInputElem = document.querySelector("#base");
 const heightInputElem = document.querySelector("#height");
 const calcButton = document.querySelector("#calcButton");
